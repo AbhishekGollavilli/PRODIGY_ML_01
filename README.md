@@ -8,10 +8,22 @@ This project aims to predict house prices based on square footage, number of bed
 -----------------------------------------------------------------
 The dataset used for this project is stored in a CSV file named house_price.csv. It includes the following columns:
 
-**.** Square Footage: The total square footage of the house.
+. Square Footage: The total square footage of the house.
 
 . Bedrooms: The number of bedrooms in the house.
 
 . Bathrooms: The number of bathrooms in the house.
 
 . Price ($): The sale price of the house.
+
+**Requirements**
+-----------------------------------------------------------------
+To run the code in this project, you'll need the following dependencies:
+
+Python 3.x
+pandas
+scikit-learn
+matplotlib (for plotting)
+You can install the required packages using pip:
+
+**Usage**
