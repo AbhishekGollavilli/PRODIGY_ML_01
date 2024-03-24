@@ -37,3 +37,14 @@ You can install the required packages using pip:
   1. Clone this repository or download the house_price.csv file.
 2. Install the required dependencies as mentioned above.
 3. Run the house_price_prediction.py script to train the linear regression model and make predictions.
+
+**Code Structure**
+
+
+
+
+
+**Results**
+--------------------------------------------------------------------
+
+After running the house_price_prediction.py script, you will get the mean squared error (MSE) and R-squared (R2) score as evaluation metrics for the model. Additionally, a scatter plot will be generated showing the predicted versus actual prices of the houses.
