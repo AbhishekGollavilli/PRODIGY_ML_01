@@ -20,10 +20,12 @@ The dataset used for this project is stored in a CSV file named house_price.csv.
 -----------------------------------------------------------------
 To run the code in this project, you'll need the following dependencies:
 
-Python 3.x
-pandas
-scikit-learn
-matplotlib (for plotting)
+. Python 3.x
+. pandas
+. scikit-learn
+. matplotlib (for plotting)
+
+
 You can install the required packages using pip:
 
 
