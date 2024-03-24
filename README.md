@@ -7,7 +7,11 @@ This project aims to predict house prices based on square footage, number of bed
 **Dataset**
 -----------------------------------------------------------------
 The dataset used for this project is stored in a CSV file named house_price.csv. It includes the following columns:
+
 .Square Footage: The total square footage of the house.
+
 .Bedrooms: The number of bedrooms in the house.
+
 .Bathrooms: The number of bathrooms in the house.
+
 .Price ($): The sale price of the house.
