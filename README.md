@@ -39,6 +39,7 @@ You can install the required packages using pip:
 3. Run the house_price_prediction.py script to train the linear regression model and make predictions.
 
 **Code Structure**
+
 . house_price.csv: CSV file containing the dataset.
 
 . house_price_prediction.py: Python script for training the linear regression model and making predictions.
