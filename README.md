@@ -26,4 +26,5 @@ scikit-learn
 matplotlib (for plotting)
 You can install the required packages using pip:
 
-****Usage****
+
+**Usage**
